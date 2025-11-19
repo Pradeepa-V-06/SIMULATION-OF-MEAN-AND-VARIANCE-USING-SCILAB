@@ -83,6 +83,7 @@ xtitle("Cross-correlation (stem plot)","Lag","r_{xy}(lag)");
 ```
 
 ## CALCULATION
+<img width="1121" height="827" alt="image" src="https://github.com/user-attachments/assets/c3323fce-7e77-4bb9-a07f-7a4a4f25f8cb" />
 
 ## OUTPUT
 <img width="635" height="277" alt="image" src="https://github.com/user-attachments/assets/25159532-49a2-488f-b436-ccd324e935b2" />
